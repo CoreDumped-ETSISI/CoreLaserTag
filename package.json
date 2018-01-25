@@ -1,0 +1,25 @@
+{
+  "name": "laserTagAPIRest",
+  "version": "1.0.0",
+  "description": "LaserTag Project API REST",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CoreDumped",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bson": "^1.0.4",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "moment": "^2.19.1",
+    "mongoose": "~3.6.11",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  }
+}
