@@ -1,5 +1,3 @@
-import { gunzip } from 'zlib';
-import { userInfo } from 'os';
 
 'use strict'
 
